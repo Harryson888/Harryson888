@@ -9,7 +9,7 @@
 Hola, soy un **desarrollador apasionado por:
 - **⚡ Tecnologías emergentes**
 - **💡 Inteligencia artificial**
-- **🌐 Desarrollo web futurista**
+- **🌐 Desarrollo web **
 
 ---
 
